@@ -1,4 +1,4 @@
-() => {
+(() => {
   const DEFAULT_LANGUAGE = "en";
   const SUPPORTED_LANGUAGES = ["en", "es", "pt", "it", "fr", "ru", "zh", "ja", "ko"];
   let currentLanguage = DEFAULT_LANGUAGE;
